@@ -21,3 +21,4 @@ timestamp,temp_C,feelslike_C,humidity,pressure,windspeedKmph,winddir16Point,uvIn
 2026-09-09 05:15:11,29,32,69,1007,9,NW,4,0,0.0,Smoky haze
 2026-09-09 10:05:57,34,39,53,1003,12,NW,5,0,0.0,Smoky haze
 2026-09-09 14:47:53,31,38,73,1003,7,NW,0,0,0.0,Smoky haze
+2026-09-09 18:50:31,28,33,79,1005,4,SSW,0,0,0.0,Smoky haze
