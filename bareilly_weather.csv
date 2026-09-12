@@ -121,3 +121,4 @@ timestamp,temp_C,feelslike_C,humidity,pressure,windspeedKmph,winddir16Point,uvIn
 2026-09-12 01:31:00,25,28,94,1009,10,E,0,100,3.0,Moderate or heavy rain shower
 2026-09-12 01:45:38,25,28,94,1009,10,E,0,100,3.0,Moderate or heavy rain shower
 2026-09-12 02:01:11,25,28,91,1010,10,ENE,0,80,0.0,Cloudy 
+2026-09-12 02:15:42,25,28,91,1010,10,ENE,0,80,0.0,Cloudy 
