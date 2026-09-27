@@ -1555,3 +1555,4 @@ timestamp,temp_C,feelslike_C,humidity,pressure,windspeedKmph,winddir16Point,uvIn
 2026-09-27 08:45:44,20,19,97,1005,24,ENE,0,100,2.8,Moderate rain
 2026-09-27 09:01:14,20,19,97,1005,24,ENE,0,100,2.8,Moderate rain
 2026-09-27 09:15:41,20,19,97,1005,24,ENE,0,100,2.8,Moderate rain
+2026-09-27 09:31:00,20,19,98,1005,22,ENE,0,100,1.5,Light rain shower
