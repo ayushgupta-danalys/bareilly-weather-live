@@ -2597,3 +2597,4 @@ timestamp,temp_C,feelslike_C,humidity,pressure,windspeedKmph,winddir16Point,uvIn
 2026-10-07 20:45:45,23,25,88,1014,10,ESE,0,0,0.0,Smoky haze
 2026-10-07 21:01:23,23,25,88,1014,10,ESE,0,0,0.0,Smoky haze
 2026-10-07 21:15:50,23,25,88,1014,10,ESE,0,0,0.0,Smoky haze
+2026-10-07 21:31:06,22,24,91,1014,9,E,0,78,0.4,Patchy rain nearby
